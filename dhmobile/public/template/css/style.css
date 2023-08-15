@@ -1,0 +1,12 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap');
+
+body, .main-menu > li > a, .ltext-102, .ltext-201, .ltext-103, .how-active1 {
+    font-family: 'Roboto Condensed', sans-serif !important;
+}
+.ltext-201{
+    color: gold;
+}
+.ltext-102{
+    font-size: 20px;
+}
